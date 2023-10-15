@@ -1,0 +1,58 @@
+/* Style for the body element (background color and text alignment) */
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Style for the label element */
+label {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+/* Style for the input element */
+#customNumber {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style for the button elements */
+.custColor,
+.randColor {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+/* Style for the select element */
+#imageSelect {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style for the img element */
+#images {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+/* Style for the p element */
+#myStudentId {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
